@@ -26,8 +26,8 @@
     "@babel/preset-env": "^7.28.3",
     "@eslint/js": "^9.37.0",
     "eslint": "^9.37.0",
+    "eslint-plugin-jest": "^29.0.1",
     "globals": "^16.4.0",
-    "jest": "^30.2.0",
-    "eslint-plugin-jest":"^29.0.1"
+    "jest": "^30.2.0"
   }
 }
